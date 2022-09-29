@@ -1,0 +1,629 @@
+
+/*css3 xpertcube 2015*/
+
+/* (320x480) iPhone (Original, 3G, 3GS) */
+@media only screen and (min-width: 320px) and (max-width: 980px) {
+/* insert styles here */
+/*INDEX START*/
+.about_cntnt_buttom_left_inn_left {
+    width: 100%;
+}
+.vision_left h1 {
+    font-size: 42px;
+}
+.about_cntnt_buttom_left h1 {
+    line-height: 45px;
+}
+.about_cntnt_buttom_left_inn_right {
+    width: 100%;
+}
+.healthcare_left_inner p {
+    font-size: 16px !important;
+    line-height: 30px!important;
+    text-align: justify!important;
+}
+.healthcare_left_inner1 p {
+    font-size: 16px !important;
+    line-height: 30px!important;
+    text-align: justify!important;
+}
+.healthcare_left_inner h1 {
+    text-align: left;
+}
+.service_contnt_right {
+    width: 100%;
+}
+.service_contnt_left {
+    width: 100%;
+}
+.service_contnt_left p {
+    font-size: 16px!important;
+    line-height: 30px!important;
+}
+.service_contnt_left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+.service_contnt_left h1 span {
+    font-size: 50px!important;
+    line-height: 50px!important;
+}
+.about_cntnt_buttom_left {
+    width: 90%;
+	padding:5% 0;
+}
+.healthcare_right {
+    width: 100%;
+}
+.healthcare_left {
+    width: 100%;
+	padding:5% 0;
+}
+.healthcare_right1 {
+    width: 100%;
+}
+.healthcare_left1 {
+    width: 100%;
+	padding:5% 0;
+}
+.service_contnt p {
+    text-align: justify;
+}
+.about_cntnt_buttom_left {
+    width:90%;
+}
+.about_cntnt_buttom_right {
+    width: 100%;
+}
+.service_left {
+    width: 100%;
+}
+.service_text h1 {
+    font-size:38px !important;
+    line-height:38px!important;
+}
+.service_text h2 {
+    font-size:34px!important;
+    line-height:34px;
+}
+.service_right {
+    width: 100%;
+}
+.service_left1 {
+    width: 100%;
+}
+.service_right1 {
+    width:100%;
+}
+.slider_main {
+   overflow-X:hidden;
+   overflow-Y:visible;
+
+}
+.inner_slide {
+    position: relative;
+    width: 98%;
+	margin:1% auto;
+    bottom: 0;
+}
+.slide_blue {
+	display:none;
+}
+.slider_text {
+    width: 95%;
+	    bottom: calc(27% - 70px);
+}
+.slider_text h1 {
+    font-size:50px;
+    line-height: 50px;
+}
+.slider_text h2 {
+    font-size: 36px;
+    line-height: 36px;
+}
+.index_link_left {
+    display: none;
+}
+.menu_right_left_bottom{
+		display: none;
+	}
+	
+	
+.menu_right_left_bottom h1 {
+    color: #FFFFFF;
+	font-size:16px;
+}
+.menu_right_left {
+    width: 100%;
+    float: left;
+}
+.menu_right_left ul {
+    margin-right: 0;
+	    float: left;
+}
+.logo_left {
+    width: 35%;
+}
+.menu_right {
+    float: right;
+    margin-right:18%;
+}
+.right_black_social ul li .fa {
+    color: #fff;
+    margin: 25px 10px;
+}
+.button_container {
+	top:0 !important;
+    background: #FFFFFF;
+    border-right: 13px solid #FFFFFF;
+	border-left: 13px solid #FFFFFF;
+	border-top : 30px solid #FFFFFF;
+	border-bottom : 13px solid #FFFFFF;
+}
+.Header_fixed {
+	position:absolute;
+}
+.button_container.active .top {
+    background: #000 !important;
+}
+.button_container.active .bottom {
+  background: #000!important;
+}
+.menu_right_left2 ul li h1 span {
+	display:none;
+}
+.banner_inner h1 {
+    font-size:24px;
+    line-height:20px;
+}
+.banner_inner h1 span {
+    font-size:26px;
+    line-height: 40px;
+}
+.banner_inner {
+    padding: 25% 0 10%;
+}
+.about_welcome_inner_left {
+    width: 100%;
+    padding: 5% 0;
+}
+.about_welcome_inner_left {
+    text-align: center;
+}
+.about_welcome_inner_left h1 {
+    font-size: 55px;
+    line-height: 65px;
+}
+.about_welcome_inner_left p {
+	text-align:justify !important;
+}
+.about_welcome_inner_right {
+    width: 100%;
+}
+.about_welcome_inner_right_left {
+    width: 100%;
+}
+.about_welcome_inner_right_right {
+    width: 100%;
+}
+.service_text {
+    width: 100%;
+}
+.service {
+    width: 90%;
+    margin: 5% auto;
+}
+.vision_left {
+    width: 90%;
+    padding: 5%;
+    margin: 0;
+}
+.vision_right {
+    width: 100%;
+    padding: 5% 0;
+}
+.footer_end_left p {
+    font-size: 15px;
+}
+.footer_end_right p {
+    font-size: 15px;
+}
+.footer_end_right p a {
+    font-size: 15px;
+}
+.footer_end_right {
+    text-align: center;
+    width: 100%;
+}
+.footer_end_left {
+    text-align: center;
+    width: 100%;
+}
+.contact_left {
+    width: 90%;
+	float:none;
+	padding:15% 5% ;
+	}
+.contact_right {
+	position:relative;
+    width:100%;
+	float:none;
+	    padding: 10% 0;
+}
+.contact_content_main {
+    left:0 !important;
+    margin: 0% auto;
+	width:100%;
+}
+.contact_right_content {
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+}
+.left_input {
+    width:100%;
+    float: none;
+}
+.right_input {
+    width: 100%;
+    float: none;
+}
+.cntct_input_left_right {
+    margin: 0 auto 0 !important;
+}
+.contact_left h2 {
+    font-size: 21px  !important;;
+	
+}
+	
+.vision_right  p {
+
+	text-align:left;
+	
+}
+	
+	
+.banner_inner_benfits p {
+	font-size:14px;
+	text-align:left;
+}
+.banner_inner_benfits {
+	
+	padding:6% 6%;
+}
+	
+.gallery_main {
+   
+    height : auto;
+}
+
+.gg-element {
+        width : 100%;
+        margin: 5% 0;
+}
+
+.gg-box{
+        display: block;
+        margin: 2%;
+}
+.gallery_thump_img_listing ul li {
+        margin :3% 0;
+        width: 100%;
+        height: 192px;
+      
+}
+.nutrition_1,.nutrition_2,.nutrition_3,.nutrition_4{
+    width:100% !important;
+    padding: 0  !important;
+}
+.how_inner_inn_left {
+    width: 100%;
+    padding: 5% 0;
+}
+.how_inner_inn_right {
+    width: 100%;
+    
+
+}
+	
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/* insert styles here */
+ 
+}
+
+/* (320x480) Smartphone, Portrait */
+@media only screen and (width: 320px) and (orientation: portrait) {
+/* insert styles here */
+	
+}
+
+/* (320x480) Smartphone, Landscape */
+@media only screen and (width: 480px) and (orientation: landscape) {
+
+}
+
+/* (480x800) Android */
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+/* insert styles here */
+
+}
+/* (640x960) iPhone 4 & 4S */
+@media only screen and (max-width:700px) {
+/* insert styles here */
+
+
+}
+@media only screen and (min-width: 375px) and (max-width: 990px) {
+/* insert styles here */
+}
+
+/* (720x1280) Galaxy Nexus, WXGA */
+@media only screen and (min-width: 720px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+/* (720x1280) Galaxy Nexus, Landscape */
+@media only screen and (min-width: 720px) and (max-width: 1280px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, XGA */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+/* insert styles here */
+.how_inner_inn_left p {
+    font-size: 15px;
+}
+.how_inner_inn_right p {
+    font-size: 15px;
+    
+}
+.gallery_thump_img_listing ul li {
+	height: 198px;
+	
+   
+}
+}
+
+/* (768x1024) iPad 1 & 2, Portrait */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, Landscape */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (2048x1536) iPad 3 */
+@media only screen and (min-width: 1536px) and (max-width: 2048px) {
+/* insert styles here */
+
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+@media only screen and (min-width: 768px) and (max-width: 1366px) {
+
+	
+}
+
+/* (1366x768) WXGA Display */
+@media screen and (max-width: 1400px) {
+
+/* insert styles here */
+}
+
+/* (1280x1024) SXGA Display */
+@media screen and (max-width: 1280px)and (max-width:1399px) {
+/* insert styles here */
+.vist_cntant h1 {
+    font-size: 26px;
+}
+.overlay ul li a {
+    font-size: 20px !important;
+}
+.service_text h1 {
+    font-size: 50px;
+    line-height: 50px;
+}
+.service_text p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.service_right1 {
+    padding: 4% 0;
+}
+.healthcare_left_inner p {
+    font-size: 11px;
+    line-height: 20px;
+}
+.healthcare_left_inner1 p {
+    font-size: 11px;
+    line-height: 20px;
+}
+.healthcare_left_inner h1 span {
+    font-size: 40px;
+    line-height: 40px;
+}
+.accordion h1 {
+    font-size: 13px;
+}
+.accordion p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.service_contnt_left p {
+    font-size: 13px;
+    line-height: 26px;
+}
+}
+/* (1440x900) WXGA+ Display */
+@media screen and (max-width: 1440px) {
+/* insert styles here */
+.nutrition_1,.nutrition_2,.nutrition_3,.nutrition_4{
+    width:50%;
+    padding: 0;
+    
+
+}
+.nutrition{
+    margin-bottom: 2% !important;
+}
+.gallery_thump_img_listing ul li {
+    height: 276px;
+   
+}
+
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+/* insert styles here */
+
+.vist_cntant h1 {
+    font-size: 28px;
+}
+.overlay ul li a {
+    font-size: 24px !important;
+}
+.service_right {
+    padding: 4% 0 0;
+}
+}
+/* (1680x1050) WSXGA+ Display */
+@media screen and (max-width: 1580px) {
+/* insert styles here */
+
+}
+
+/* (1920x1080) Full HD Display */
+@media screen and (max-width: 1920px) {
+/* insert styles here */
+}
+@media screen and (max-width:2018px) {
+/* insert styles here */
+
+}
+
+/* (1600x900) HD+ Display */
+@media only screen and (min-width:1604px) and (max-width:1900px) {
+/* insert styles here */
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1270px) {
+/* insert styles here */
+.slider_text p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.slider_text h1 {
+    font-size:54px;
+    line-height:55px;
+}
+.slider_text h2 {
+    font-size: 40px;
+    line-height:40px;
+}
+.vist_cntant h1 {
+    font-size: 18px;
+	line-height:30px;
+}
+.about_welcome_inner_left h1 {
+    font-size: 60px;
+    line-height: 70px;
+}
+.about_welcome_inner_left p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.about_welcome_inner_right_right_top p {
+    font-size: 16px;
+    line-height: 18px;
+}
+.vision_left h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+.vision_left p {
+    font-size: 13px;
+    line-height: 27px;
+}
+.vision_right h1 {
+    font-size: 34px;
+    line-height: 34px;
+}
+.vision_right p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.vist_cntant h2 {
+    font-size: 17px;
+    line-height: 20px;
+}
+.overlay ul li a {
+    font-size: 18px !important;
+}
+.head_content {
+    top: 1%;
+}
+.service_text h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+.service_text h1 {
+    font-size: 64px;
+    line-height:64px;
+}
+.service_text p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.service_right1 {
+    padding: 3% 0;
+}
+.healthcare_left_inner p {
+    font-size: 11px;
+    line-height: 20px;
+}
+.healthcare_left_inner1 p {
+    font-size: 11px;
+    line-height: 20px;
+}
+.healthcare_left_inner h1 span {
+    font-size: 40px;
+    line-height: 40px;
+}
+.accordion h1 {
+    font-size: 14px;
+}
+.accordion p {
+    font-size: 13px;
+    line-height: 20px;
+}
+}
+@media only screen and (min-width: 600px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1801px) and (max-width:2000px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 1601px) and (max-width: 1800px) {
+
+}
+@media only screen and (min-width:2001px) and (max-width:2200px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 981px) {
+	
+
+
+}
